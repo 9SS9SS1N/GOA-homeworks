@@ -22,7 +22,7 @@ left(90)
 #draing a door
 
 forward(70)
-color("yellow")
+color("purple")
 begin_fill()
 left(90)
 forward(120)     #height of the door
@@ -36,7 +36,7 @@ penup()
 goto(200, 200)
 pendown()
 
-color("red")
+color("pink")
 begin_fill()
 right(150)
 forward(200)
@@ -50,7 +50,7 @@ penup()
 goto(140,  140)
 pendown()
 
-color("blue")
+color("cyan")
 begin_fill()
 left(120)
 forward(30)
